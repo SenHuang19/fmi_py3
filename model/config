@@ -1,0 +1,5 @@
+{
+	"name": "baseline",
+	"fmupath": "./fmu/Buildings_Examples_VAVReheat_Guideline36.fmu",
+	"step": 600
+}
